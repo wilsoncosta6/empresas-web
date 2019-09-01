@@ -1,0 +1,26 @@
+.BCG{
+    background-color: #ebe9d7;
+    display: flex;
+    justify-content: center;
+}
+
+.BASE{
+    height: 782px;
+    width: 923px;
+    background-color: #fff;
+    padding: 48px; 
+}
+
+.LOREME1 {
+    width: 762.3px;
+    height: 216px;
+    font-family: SourceSansPro;
+    font-size: 24px;
+    font-weight: normal; 
+    font-style: normal; 
+    font-stretch: normal; 
+    line-height: 1.5;
+    letter-spacing: -0.38px;
+    text-align: left;
+    color: var(--warm-grey); 
+}

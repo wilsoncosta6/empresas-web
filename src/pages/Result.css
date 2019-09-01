@@ -1,0 +1,43 @@
+.RESULTBASE{
+    margin: 44px;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    width: 80%;
+    height: 213.9px;
+    border-radius: 4.7px;
+    justify-content: left;
+    margin-left: 10%;
+    align-items: center;
+}
+
+.IMGRESULT {
+    margin-left: 40px;
+}
+
+.RESULTBASEDATA {
+    margin-left: 40px;
+    background-color: #ffffff00;
+}
+
+.RESULTBASEDATA h1{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    color: #1a0e49;
+    text-align: left;
+}
+
+.RESULTBASEDATA h3{
+    font-family: Roboto;
+    font-size: 24px;
+    text-align: left;
+    color: #8d8c8c;
+}
+
+.RESULTBASEDATA h5{
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: left;
+    color: #8d8c8c;
+}
